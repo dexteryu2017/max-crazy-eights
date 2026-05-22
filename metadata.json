@@ -1,0 +1,6 @@
+{
+  "name": "Max疯狂8点",
+  "description": "经典有趣的疯狂8点纸牌游戏，支持与智能AI对作战并带有动画与音效切换！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
